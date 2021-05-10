@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="welcome">Welcome to Tic-Tac-Toe!</string>
+    <string name="start">Start</string>
+    <string name="select_difficulty">Choose Difficulty:</string>
+    <string name="you_are">You are %1$s</string>
+    <string name="player_won">😃 You Win! 👏</string>
+    <string name="ai_won">☹️ You Lose! 👎</string>
+    <string name="tied_game">🤷‍♂️ You Tied?! 🤙</string>
+    <string name="game_over">Game Over!</string>
+    <string name="play_again">Start A New Game</string>
+    <string name="player_stats">Wins: %1$d | Loses: %2$d | Ties: %3$d</string>
+    <string name="logo">Tic Tac Toe logo</string>
+</resources>
